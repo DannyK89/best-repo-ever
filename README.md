@@ -2,4 +2,4 @@
 
 This is an update
 
-Second Update
+Second Update in branch 2
